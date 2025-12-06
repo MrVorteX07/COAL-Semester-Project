@@ -298,7 +298,7 @@ F:[███████████████] Score: 0245  NFSx86
 
 ### Project Structure
 
-`
+```
 COAL-Semester-Project/
 │── NFSx86.asm        # Assembly Code
 │── NFSx86.com        # Compiled executable(Dosbox)
@@ -313,7 +313,7 @@ COAL-Semester-Project/
 ├── README.md         # Main project README (links to phases and other folders)
 ├── LICENSE           # License information
 ├── .gitignore        # Ignore compiled files and temp files
-`
+```
 
 ### Code Architecture
 

@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-To Reproduce go to ReadMe.md in main and click on Report Bug Expected behavior A clear description of what you expected to happen.
+go to ReadMe.md in main and click on Report Bug Expected behavior A clear description of what you expected to happen.
 
 **Expected behavior**
 A clear description of what you expected to happen.

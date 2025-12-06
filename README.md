@@ -468,18 +468,6 @@ This project served as a deep dive into:
 
 We welcome contributions! Here's how you can help:
 
-### Areas for Improvement
-
-- [ ] Add more car designs
-- [ ] Implement power-ups (shields, speed boosts)
-- [ ] Create additional difficulty levels
-- [ ] Add multiplayer support
-- [ ] Improve collision detection precision
-- [ ] Create level system with progression
-- [ ] Add high score leaderboard with persistence
-- [ ] Compose additional music tracks
-- [ ] Port to other platforms (UEFI, Modern OS)
-
 ### How to Contribute
 
 1. Fork the repository

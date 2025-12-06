@@ -584,6 +584,7 @@ Made with ❤️ and ⚙️ by **Ali Jawad & Aneeq Kamran**
 
 <div align="center">
 
-[Download Latest Release](https://github.com/yourusername/NFSx86/releases) | [Report Bug](https://github.com/MrVorteX07/COAL-Semester-Project-issues) | [Request Feature](https://github.com/yourusername/NFSx86/issues)
+[Download Latest Release](https://github.com/yourusername/NFSx86/releases) | [Report Bug](https://github.com/MrVorteX07/COAL-Semester-Project/new?assignees=&labels=bug&template=bug_report.md)
+) | [Request Feature](https://github.com/yourusername/NFSx86/issues)
 
 </div>

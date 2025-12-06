@@ -365,6 +365,8 @@ COAL-Semester-Project/
 
 #### 5. **Audio System** (PC Speaker)
 - Built-in music tracks (composed via Python scripting)
+- Track used [lastminute.xm](https://modarchive.org/index.php?request=view_player&query=160977) from [The Mod Archive](https://modarchive.org)
+- Notes extracted via python scripting
 - PC speaker beeps for effects
 - Event-driven sound triggers
 - Music toggle functionality (=/M key in menu/game)

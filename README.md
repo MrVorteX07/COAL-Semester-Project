@@ -299,11 +299,17 @@ F:[███████████████] Score: 0245  NFSx86
 ### Project Structure
 
 ```
-NFSx86/
-├── game.asm              # Main game source code (includes music)
-├── game.com              # Compiled executable
-├── README.md             # This file
-├── LICENSE               # License information
+COAL-Semester-Project/
+│── NFSx86.asm        # Assembly Code
+│── NFSx86.com        # Compiled executable(Dosbox)
+├── BugReports/
+│   └── README.md     # Instructions for reporting bugs
+├── FeatureRequests/
+│   └── README.md     # Instructions for requesting new features
+├── README.md         # Main project README (links to phases and other folders)
+├── LICENSE           # License information
+├── .gitignore        # Ignore compiled files and temp files
+
 ```
 
 ### Code Architecture

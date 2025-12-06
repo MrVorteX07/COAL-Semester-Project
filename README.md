@@ -408,13 +408,13 @@ NFSx86/
     <td align="center">
       <img src="https://github.com/identicons/alijawad.png" width="100" alt="Ali Jawad"/><br />
       <sub><b>Ali Jawad</b></sub><br />
-      <sub>24L-0531</sub><br />
+      <sub>xx---xx</sub><br />
       <a href="mailto:alijawad0047@gmail.com">📧 Email</a>
     </td>
     <td align="center">
       <img src="https://github.com/identicons/aneeqkamran.png" width="100" alt="Aneeq Kamran"/><br />
       <sub><b>Aneeq Kamran</b></sub><br />
-      <sub>24L-0554</sub><br />
+      <sub>xx---xx</sub><br />
       <a href="mailto:your_correct_email@example.com">📧 Email</a>
     </td>
   </tr>

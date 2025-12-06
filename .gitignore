@@ -1,0 +1,46 @@
+# VS Code
+.vscode/
+
+# Visual Studio
+*.exe
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.log
+*.cache
+*.tlog
+*.lastbuildstate
+
+# Build Folders
+Debug/
+Release/
+bin/
+build/
+out/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Assembly specific
+*.lst
+*.map
+
+# Qt specific (if used)
+*.user
+*.pro.user
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.qmlc
+*.jsc
+Makefile*
+CMakeFiles/
+CMakeCache.txt

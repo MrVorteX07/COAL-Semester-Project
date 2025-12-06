@@ -406,19 +406,20 @@ NFSx86/
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/identicons/alijawad.png" width="100px;" alt="Ali Jawad"/><br />
+      <img src="https://github.com/identicons/alijawad.png" width="100" alt="Ali Jawad"/><br />
       <sub><b>Ali Jawad</b></sub><br />
       <sub>24L-0531</sub><br />
       <a href="mailto:alijawad0047@gmail.com">📧 Email</a>
     </td>
     <td align="center">
-      <img src="https://github.com/identicons/aneeqkamran.png" width="100px;" alt="Aneeq Kamran"/><br />
+      <img src="https://github.com/identicons/aneeqkamran.png" width="100" alt="Aneeq Kamran"/><br />
       <sub><b>Aneeq Kamran</b></sub><br />
       <sub>24L-0554</sub><br />
-      <a href="mailto:aneeqkamran@example.com">📧 Email</a>
+      <a href="mailto:your_correct_email@example.com">📧 Email</a>
     </td>
   </tr>
 </table>
+
 
 ### Contributions
 
@@ -517,8 +518,8 @@ We welcome contributions! Here's how you can help:
 
 ### Get in Touch
 
-- **Issues**: [GitHub Issues](https://github.com/MrVorteX07/NFSx86/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/MrVorteX07/NFSx86/discussions)
+- **Issues**: [GitHub Issues](https://github.com/MrVorteX07/COAL-Semester-Project/issues/new?template=bug_report.md)
+- **Discussions**: [GitHub Discussions](https://github.com/MrVorteX07/COAL-Semester-Project/issues/new?template=feature_request.md)
 - **Email**: nfsx86@gmail.com
 
 ### FAQ
@@ -584,7 +585,8 @@ Made with ❤️ and ⚙️ by **Ali Jawad & Aneeq Kamran**
 
 <div align="center">
 
-[Download Latest Release](https://github.com/yourusername/NFSx86/releases) | [Report a Bug](https://github.com/MrVorteX07/COAL-Semester-Project/issues/new?template=bug_report.md)
-| [Request Feature](https://github.com/yourusername/NFSx86/issues)
+[Download Latest Release](https://github.com/MrVorteX07/COAL-Semester-Project/tree/main) | [Report a Bug](https://github.com/MrVorteX07/COAL-Semester-Project/issues/new?template=bug_report.md)
+| [Request Feature](https://github.com/MrVorteX07/COAL-Semester-Project/issues/new?template=feature_request.md)
+
 
 </div>

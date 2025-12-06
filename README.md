@@ -298,11 +298,11 @@ F:[███████████████] Score: 0245  NFSx86
 
 ### Project Structure
 
-```
+
 COAL-Semester-Project/
 │── NFSx86.asm        # Assembly Code
 │── NFSx86.com        # Compiled executable(Dosbox)
-├── Phases/           # Game Development Phases by [MrV](https://github.com/MrVorteX07)
+├── Phases/           # Game Development Phases by  [MrV](https://github.com/MrVorteX07)
 │   └── Phase2.asm    # Animation
 │   └── Phase4.asm    # Software Interrupts
 │   └── Phase6.asm    # Music
@@ -313,8 +313,6 @@ COAL-Semester-Project/
 ├── README.md         # Main project README (links to phases and other folders)
 ├── LICENSE           # License information
 ├── .gitignore        # Ignore compiled files and temp files
-
-```
 
 ### Code Architecture
 

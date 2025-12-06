@@ -4,7 +4,7 @@ Thank you for taking the time to suggest improvements to our project!
 
 ## How to Request a Feature
 
-1. Click the "New Issue" button in this repository.  
+1. go to Readme.md in main.
 2. Choose the **Feature Request** template (if available) or use the following format:
 
 ---

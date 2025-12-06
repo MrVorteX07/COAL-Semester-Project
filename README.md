@@ -560,7 +560,7 @@ Made with ❤️ and ⚙️ by **Ali Jawad & Aneeq Kamran**
 
 *A Computer Organization & Assembly Language Project*
 
-[⬆ Back to Top](#nfsx86---need-for-speed-x86-)
+[⬆ Back to Top](#nfsx86---need-for-speed-x86-️)
 
 </div>
 

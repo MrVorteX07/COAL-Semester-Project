@@ -302,6 +302,10 @@ F:[███████████████] Score: 0245  NFSx86
 COAL-Semester-Project/
 │── NFSx86.asm        # Assembly Code
 │── NFSx86.com        # Compiled executable(Dosbox)
+├── Phases/           # Game Development Phases by [MrV](https://github.com/MrVorteX07)
+│   └── Phase2.asm    # Animation
+│   └── Phase4.asm    # Software Interrupts
+│   └── Phase6.asm    # Music
 ├── BugReports/
 │   └── README.md     # Instructions for reporting bugs
 ├── FeatureRequests/

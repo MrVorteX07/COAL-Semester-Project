@@ -111,7 +111,7 @@ unzip NFSx86-v1.0.zip
 cd NFSx86
 
 # 3. Run in DOSBox
-dosbox game.com
+dosbox NFSx86.asm -o NFSx86.com
 ```
 
 #### Option 2: Build from Source
@@ -133,14 +133,14 @@ cd NFSx86
 NPP_SAVE
 CD "$(CURRENT_DIRECTORY)"
 nasm -f bin -o game.com game.asm
-dosbox game.com -exit
+dosbox NFSx86.com -exit
 ```
 
 4. Save as "Compile and Run"
 
 **Step 3: Build and Run**
 
-1. Open `game.asm` in Notepad++
+1. Open `NFSx86.asm` in Notepad++
 2. Press `F6` and select "Compile and Run"
 3. Game will compile and launch in DOSBox
 
@@ -148,10 +148,10 @@ dosbox game.com -exit
 
 ```bash
 # Compile the game
-nasm -f bin -o game.com game.asm
+nasm -f bin -o NFSx86.com NFSx86.asm
 
 # Run in DOSBox
-dosbox game.com
+dosbox NFSx86.com
 ```
 
 ---
@@ -481,7 +481,7 @@ We welcome contributions! Here's how you can help:
 
 ### Code Style Guidelines
 
-- Use **4 spaces** for indentation (no tabs)
+- Use **4 spaces** for indentation (or tab)
 - Comment complex logic thoroughly
 - Use meaningful label names
 - Keep subroutines under 100 lines when possible
